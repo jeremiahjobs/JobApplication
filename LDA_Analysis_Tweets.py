@@ -1,3 +1,5 @@
+#uses data scraped with the Scraping_Twitter_Data_Detecting_Bots.py script
+
 import pandas as pd
 import re
 from nltk.corpus import stopwords 
